@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "542256519754",
+    "firebase_url": "https://booktrading-8991f.firebaseio.com",
+    "project_id": "booktrading-8991f",
+    "storage_bucket": "booktrading-8991f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542256519754:android:0b72d4a7e24c34d6",
+        "android_client_info": {
+          "package_name": "info.diepnguyen.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542256519754-6ksejunnsaldnmjh7r12emeipou8ehiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5xuuxicxYPiJz7LkSpEuooIeLzuG2iU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542256519754:android:a9f191538f73b760",
+        "android_client_info": {
+          "package_name": "info.diepnguyen.firebasedemo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542256519754-no4ujr4i5uhq4k92gc78nr6g2lfv8h6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.diepnguyen.firebasedemo1",
+            "certificate_hash": "f4a199a5f3903fd22f6b56ea0f24c95613e8d4fc"
+          }
+        },
+        {
+          "client_id": "542256519754-6ksejunnsaldnmjh7r12emeipou8ehiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5xuuxicxYPiJz7LkSpEuooIeLzuG2iU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542256519754-6ksejunnsaldnmjh7r12emeipou8ehiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542256519754:android:64e58dacc0483faa",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542256519754-a5piv6hj9f7v9kq2221215vtt2632p8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "f4a199a5f3903fd22f6b56ea0f24c95613e8d4fc"
+          }
+        },
+        {
+          "client_id": "542256519754-6ksejunnsaldnmjh7r12emeipou8ehiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5xuuxicxYPiJz7LkSpEuooIeLzuG2iU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542256519754-6ksejunnsaldnmjh7r12emeipou8ehiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542256519754:android:2ccfc5faca675e44",
+        "android_client_info": {
+          "package_name": "info.diepnguyen.locationtracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542256519754-lifc7no97p3q66euobvbk8et9b95gttp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.diepnguyen.locationtracking",
+            "certificate_hash": "f4a199a5f3903fd22f6b56ea0f24c95613e8d4fc"
+          }
+        },
+        {
+          "client_id": "542256519754-6ksejunnsaldnmjh7r12emeipou8ehiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5xuuxicxYPiJz7LkSpEuooIeLzuG2iU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542256519754-6ksejunnsaldnmjh7r12emeipou8ehiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
